@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "/Week02/web-development/default.html"
+  status = 200
